@@ -5,6 +5,7 @@ As the leader of the team, I guided the development of a game using Unity, utili
 
 # Link to code of Game
 
+[Scripts](https://github.com/AymanAkhras/Produceral-Generation/tree/main/Scripts)
 
-#Link to assets of the Game
+# Link to assets of the Game
 [Character](https://github.com/AymanAkhras/Produceral-Generation/tree/main/Player)
